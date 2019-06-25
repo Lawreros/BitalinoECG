@@ -26,8 +26,8 @@ close all % close figures
 bitalino = struct([]);
 
 % define directories
-bitalino(1).dir = 'C:/Users/Ross Lawrence/Desktop/HR Data/'; % where the bitalino data is
-bitalino.figsDir = 'C:/Users/Ross Lawrence/Desktop/HR Data/'; % where you want figures saved
+bitalino(1).dir = 'C:/bitalino/'; % where the bitalino data is
+bitalino.figsDir = 'C:/bitalino/'; % where you want figures saved
 
 % define filename
 bitalino.file = 'opensignals_201602147546_2019-03-17_19-06-08.txt';
